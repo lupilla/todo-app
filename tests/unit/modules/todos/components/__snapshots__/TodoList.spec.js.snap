@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TodoList tests TodoList Component should match with snapshot 1`] = `
+<main id="main" class="main">
+  <div><input id="checkAll" type="checkbox" class="toggle-all" data-id-test="checkAll" aria-label="Check all Todos"><label for="checkAll"></label></div>
+  <ul class="todo-list">
+    <li data-id-test="edit" class="">
+      <todo-item-stub todo="[object Object]"></todo-item-stub>
+    </li>
+    <li data-id-test="edit" class="">
+      <todo-item-stub todo="[object Object]"></todo-item-stub>
+    </li>
+    <li data-id-test="edit" class="completed">
+      <todo-item-stub todo="[object Object]"></todo-item-stub>
+    </li>
+  </ul>
+</main>
+`;

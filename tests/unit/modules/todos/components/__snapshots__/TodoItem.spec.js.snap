@@ -1,0 +1,6 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TodoItem tests TodoItem Component should match with snapshot 1`] = `
+<div class="view" data-id-test="view"><input id="-N0yGtCoVxtQyt39fNqF" data-id-test="completed" type="checkbox" class="toggle" aria-label="Check as completed"><label for="-N0yGtCoVxtQyt39fNqF" data-id-test="label">go to the library</label><button data-id-test="remove" type="button" class="destroy"></button></div>
+<input data-id-test="edit" class="edit" type="text" aria-label="Edit a Todo" style="display: none;">
+`;

@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FooterComponent tests FooterComponent Component should match with snapshot 1`] = `
+<footer class="footer">
+  <div class="todo-count"><strong>[
+  {
+    "id": "-N0yGtCoVxtQyt39fNqF",
+    "name": "go to the library",
+    "completed": false,
+    "isEditing": false
+  },
+  {
+    "id": "-N0yWX2HtsbkDP1tuzf0",
+    "name": "telephone the dentist",
+    "completed": false,
+    "isEditing": false
+  }
+] items left </strong></div>
+  <ul class="filters">
+    <li>
+      <router-link-stub to="/" replace="false" custom="false" ariacurrentvalue="page" data-id-test="all" class="selected"></router-link-stub>
+      <router-link-stub to="/active" replace="false" custom="false" ariacurrentvalue="page" data-id-test="active" class=""></router-link-stub>
+      <router-link-stub to="/completed" replace="false" custom="false" ariacurrentvalue="page" data-id-test="completed" class=""></router-link-stub>
+    </li>
+  </ul><button type="button" data-id-test="remove" class="clear-completed"> Clear completed </button>
+</footer>
+`;

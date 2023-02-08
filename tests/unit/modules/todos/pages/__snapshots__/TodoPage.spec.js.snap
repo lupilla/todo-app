@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TodoPage tests should match with snapshot 1`] = `
+<div id="todo-page">
+  <h1 data-id-test="header">todos</h1>
+  <input-todo-stub></input-todo-stub>
+  <todo-list-stub todos="[object Object],[object Object],[object Object]"></todo-list-stub>
+  <footer-component-stub todos="[object Object],[object Object],[object Object]"></footer-component-stub>
+</div>
+`;
